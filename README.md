@@ -8,3 +8,4 @@
 - [ ] Lavalink
 # คู่มือการใช้งานโค้ดอยู่ในไฟล์ 001 Music Code.zip
 # รหัสไฟล์ mannez4966
+# Code by MANNEZ#4966
