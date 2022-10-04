@@ -1,4 +1,7 @@
 # 001-Music-old
 โค้ดบอทเพลง 001 Music อันเก่า
 # System
-[x] Lavalink
+- [x] Soundcloud
+- [x] Spotify
+- [x] Host on uptimerobot
+- [ ] Lavalink
